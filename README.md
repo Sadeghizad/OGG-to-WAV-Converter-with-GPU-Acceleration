@@ -53,4 +53,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Acknowledgments
 - [FFmpeg](https://ffmpeg.org/) for the audio conversion capabilities.
-```
+
